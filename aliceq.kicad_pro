@@ -57,7 +57,7 @@
       ],
       "drc_exclusions": [],
       "meta": {
-        "version": 1
+        "version": 2
       },
       "rule_severities": {
         "annular_width": "error",
@@ -113,11 +113,7 @@
         "min_through_hole_diameter": 0.3,
         "min_track_width": 0.19999999999999998,
         "min_via_annular_width": 0.049999999999999996,
-        "min_via_diameter": 0.39999999999999997,
-        "solder_mask_clearance": 0.051,
-        "solder_mask_min_width": 0.25,
-        "solder_paste_clearance": 0.0,
-        "solder_paste_margin_ratio": -0.0
+        "min_via_diameter": 0.39999999999999997
       },
       "track_widths": [
         0.25
@@ -380,7 +376,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../../../Desktop/aliceq.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -421,6 +417,11 @@
     "subpart_first_id": 65,
     "subpart_id_separator": 0
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "4349a606-e9ee-448d-9c31-50f47822d0aa",
+      ""
+    ]
+  ],
   "text_variables": {}
 }
