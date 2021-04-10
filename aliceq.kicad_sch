@@ -6028,7 +6028,7 @@
     (property "Value" "22p" (id 1) (at 142.24 186.69 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" (id 2) (at 148.59 185.42 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (id 2) (at 148.59 185.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 148.59 185.42 0)
@@ -6047,7 +6047,7 @@
     (property "Value" "22p" (id 1) (at 165.1 186.69 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" (id 2) (at 161.29 185.42 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (id 2) (at 161.29 185.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 161.29 185.42 0)
@@ -8232,10 +8232,10 @@
       (reference "C6") (unit 1) (value "10u") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/00000000-0000-0000-0000-00005fe7b819"
-      (reference "C7") (unit 1) (value "22p") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
+      (reference "C7") (unit 1) (value "22p") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/00000000-0000-0000-0000-00005fe7dfa3"
-      (reference "C8") (unit 1) (value "22p") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
+      (reference "C8") (unit 1) (value "22p") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/00000000-0000-0000-0000-00005ff0bb5b"
       (reference "D1") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
